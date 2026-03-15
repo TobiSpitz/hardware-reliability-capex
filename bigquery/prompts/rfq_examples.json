@@ -1,0 +1,33 @@
+[
+  {
+    "input_hint": "Single-line automation part quote",
+    "output_hint": {
+      "header": {
+        "vendor": "Balluff",
+        "vendor_reference": "Q-12345",
+        "order_deadline": "03/10/2026 17:00:00",
+        "expected_arrival": "03/14/2026 17:00:00",
+        "ask_confirmation": 1,
+        "deliver_to": "tx-austin-hq-riverside: Receipts",
+        "project": "CIP-BF1-INV1-ST11000 : Heatsink Tim Dispense",
+        "terms_and_conditions": "Base Power Standard Terms and Conditions Apply: https://www.basepowercompany.com/t-and-c"
+      },
+      "lines": [
+        {
+          "product": "Non-Inventory: Construction in Process",
+          "description": "BAE00FL Power Supply",
+          "project": "CIP-BF1-INV1-ST11000 : Heatsink Tim Dispense",
+          "quantity": 1,
+          "uom": "Unit",
+          "unit_price": 299.03,
+          "taxes": [
+            "Purchase: ATX Tax 8.25%"
+          ]
+        }
+      ],
+      "notes": [
+        "Use exact Odoo tax label."
+      ]
+    }
+  }
+]

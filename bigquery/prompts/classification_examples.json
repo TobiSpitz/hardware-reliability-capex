@@ -1,0 +1,47 @@
+[
+  {
+    "vendor": "Fanuc America",
+    "description": "LR Mate 200iD/7L Robot with R-30iB Plus Controller",
+    "price_subtotal": 45000.00,
+    "project_name": "BF1-Module Line 1",
+    "final_station_id": "BASE1-MOD1-ST13000",
+    "final_subcategory": "Process Equipment",
+    "reasoning": "Fanuc LR Mate robot for PCBA press station on Module Line 1"
+  },
+  {
+    "vendor": "Cognex",
+    "description": "In-Sight 2800 Vision Camera with Lighting Kit",
+    "price_subtotal": 8500.00,
+    "project_name": "BF1-Module Line 2",
+    "final_station_id": "BASE1-MOD2-ST31000",
+    "final_subcategory": "Controls & Electrical",
+    "reasoning": "Cognex vision camera for functional test station inspection on MOD2"
+  },
+  {
+    "vendor": "80/20",
+    "description": "T-Slot Aluminum Extrusion 40-4040 x 2000mm (qty 24)",
+    "price_subtotal": 1200.00,
+    "project_name": "BF1-Module Line 1",
+    "final_station_id": null,
+    "final_subcategory": "Mechanical & Structural",
+    "reasoning": "Generic framing material, not station-specific"
+  },
+  {
+    "vendor": "DHL Express",
+    "description": "International express shipping for precision components",
+    "price_subtotal": 350.00,
+    "project_name": "BF1-Module Line 1",
+    "final_station_id": null,
+    "final_subcategory": "Shipping & Freight",
+    "reasoning": "Shipping cost, not assignable to a specific station"
+  },
+  {
+    "vendor": "Patti Engineering",
+    "description": "Controls integration and commissioning support - 120 hours on-site",
+    "price_subtotal": 24000.00,
+    "project_name": "BF1-Module Line 1",
+    "final_station_id": null,
+    "final_subcategory": "Integration & Commissioning",
+    "reasoning": "Integration services across entire line, not station-specific"
+  }
+]

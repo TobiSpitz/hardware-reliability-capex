@@ -1,0 +1,16 @@
+google-cloud-bigquery>=3.14.0
+google-cloud-storage>=2.14.0
+google-genai>=1.0.0
+db-dtypes>=1.2.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+flask>=3.0.0
+requests>=2.31.0
+openpyxl>=3.1.0
+gunicorn>=22.0.0
+pypdf>=5.0.0
+pytest>=8.0.0
+
+# Optional: alternative LLM providers (Gemini is default via google-cloud-aiplatform)
+# anthropic>=0.39.0
+# openai>=1.50.0
