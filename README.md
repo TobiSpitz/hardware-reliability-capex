@@ -1,6 +1,6 @@
 # Hardware Reliability Testing Budgeting App
 
-Manufacturing CAPEX spend analytics platform for Base Power Company. Consolidates Purchase Order data from Odoo (via BigQuery), credit card transactions from Ramp, and station planning data into an interactive dashboard and review workflow.
+Hardware Reliability CAPEX spend analytics platform for Base Power Company. Consolidates Purchase Order data from Odoo (via BigQuery), credit card transactions from Ramp, and station planning data into an interactive dashboard and review workflow.
 
 ## About
 
